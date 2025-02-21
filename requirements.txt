@@ -1,0 +1,10 @@
+streamlit
+pandas
+matplotlib
+fpdf
+PyPDF2
+seaborn
+gspread
+oauth2client
+oauth2client.service_account
+ServiceAccountCredentials
