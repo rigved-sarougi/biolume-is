@@ -5,6 +5,8 @@ fpdf
 PyPDF2
 seaborn
 gspread
+streamlit
+st-gsheets-connection
 oauth2client
 oauth2client.service_account
 ServiceAccountCredentials
